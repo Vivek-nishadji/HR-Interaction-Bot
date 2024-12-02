@@ -1,0 +1,2 @@
+# HR-Interaction-Bot
+ The HR Interaction Chatbot is an innovative AI-driven solution designed to facilitate seamless communication between employees and the HR department. Instead of employees directly contacting HR staff for inquiries, requests, or issues, the chatbot serves as a bridge, interacting with HR on the employee's behalf. This automated approach not only saves time but also streamlines HR processes, making them more efficient and responsive.
